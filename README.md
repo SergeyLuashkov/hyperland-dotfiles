@@ -1,1 +1,1 @@
-# hyperland-dotfiles
+# hyprland-dotfiles
