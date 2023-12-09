@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sergey/.config/wpg/wallpapers/Wallpaper.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0d0e",
+        "foreground": "#e7cfc7",
+        "cursor": "#e7cfc7"
+    },
+    "colors": {
+        "color0": "#0a0d0e",
+        "color1": "#9B6F66",
+        "color2": "#A68A78",
+        "color3": "#637986",
+        "color4": "#76868C",
+        "color5": "#52A6C8",
+        "color6": "#969593",
+        "color7": "#e7cfc7",
+        "color8": "#a1908b",
+        "color9": "#9B6F66",
+        "color10": "#A68A78",
+        "color11": "#637986",
+        "color12": "#76868C",
+        "color13": "#52A6C8",
+        "color14": "#969593",
+        "color15": "#e7cfc7"
+    }
+}

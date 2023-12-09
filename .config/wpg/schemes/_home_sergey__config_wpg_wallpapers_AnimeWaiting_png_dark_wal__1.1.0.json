@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sergey/.config/wpg/wallpapers/AnimeWaiting.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1016",
+        "foreground": "#fffafa",
+        "cursor": "#fffafa"
+    },
+    "colors": {
+        "color0": "#0f1016",
+        "color1": "#C86377",
+        "color2": "#99926F",
+        "color3": "#CBAE99",
+        "color4": "#717C86",
+        "color5": "#A19DA1",
+        "color6": "#995E66",
+        "color7": "#d7cfcf",
+        "color8": "#232534",
+        "color9": "#ff6d8e",
+        "color10": "#d8c97f",
+        "color11": "#ffdeaf",
+        "color12": "#82a1be",
+        "color13": "#e5b7e5",
+        "color14": "#d66a78",
+        "color15": "#fffafa"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sergey/.config/wpg/wallpapers/Waiting2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1B26",
+        "foreground": "#f5fffd",
+        "cursor": "#f5fffd"
+    },
+    "colors": {
+        "color0": "#0E1B26",
+        "color1": "#77AB9C",
+        "color2": "#01B39B",
+        "color3": "#D28A6E",
+        "color4": "#467A84",
+        "color5": "#B79984",
+        "color6": "#06C1A7",
+        "color7": "#bdccc3",
+        "color8": "#1b354b",
+        "color9": "#87f1d2",
+        "color10": "#01e9c9",
+        "color11": "#ffaa7a",
+        "color12": "#4da7b8",
+        "color13": "#ffc397",
+        "color14": "#01ffde",
+        "color15": "#f5fffd"
+    }
+}

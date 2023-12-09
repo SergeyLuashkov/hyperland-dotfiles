@@ -1,0 +1,14 @@
+colors = {{
+          "Black": ["{color0}", "{color8}"],
+          "Red": ["{color1}", "{color9}"],
+          "Green": ["{color2}", "{color10}"],
+          "Yellow": ["{color3}", "{color11}"],
+          "Blue": ["{color4}", "{color12}"],
+          "Magenta": ["{color5}", "{color13}"],
+          "Cyan": ["{color6}", "{color14}"],
+          "White": ["{color7}", "{color15}"],
+          "Foreground": "{foreground}",
+          "Background": "{background}",
+          "Active": "{active}",
+          "Inactive": "{inactive}"
+}}
