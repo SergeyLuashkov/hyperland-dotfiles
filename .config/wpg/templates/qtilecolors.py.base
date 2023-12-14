@@ -12,3 +12,4 @@ colors = {{
           "Active": "{active}",
           "Inactive": "{inactive}"
 }}
+wallpaper = "{wallpaper}"

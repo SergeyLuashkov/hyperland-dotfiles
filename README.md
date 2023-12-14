@@ -1,7 +1,9 @@
 # qtile-dotfiles
+
 ### Dependencies
 
 Dependencies base:
+
 - qtile (window manager)
 - kitty (terminal)
 - dunst (notification)
@@ -9,7 +11,11 @@ Dependencies base:
 - ranger (file manager)
 
 Dependencies optional:
+
 - ly (Display manager)
+- maim (for screenshots)
+- atool (compress and extract archives)
+- calcurse (calendar)
 - lxsession-gtk3 (pollkit)
 - python-psutils (for sensors)
 - less (dependencies for ranger)
@@ -17,21 +23,27 @@ Dependencies optional:
 - lxappearance (for gtk/qt theme)
 
 Dependencies AUR:
+
 - paru or yay
 - wpgtk (create theme from wallpaper)
 - qt6gtk2
 
-### Install 
+### Install
 
 Required:
+
 ```
 pacman -S qtile kitty dunst capitaine-cursor ranger
 ```
+
 Optional:
+
 ```
 pacman -S ly lxsession-gtk3 python-psutils less xsettingsd lxappearance
 ```
+
 aur:
+
 ```
 paru -S wpgtk qt6gtk2
 ```

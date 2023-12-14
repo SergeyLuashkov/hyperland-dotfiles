@@ -12,3 +12,4 @@ colors = {
           "Active": "#5f887c",
           "Inactive": "#415d55"
 }
+wallpaper = "/home/sergey/.config/wpg/wallpapers/Waiting2.jpg"
